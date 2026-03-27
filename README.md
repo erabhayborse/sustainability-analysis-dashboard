@@ -1,6 +1,5 @@
-![Preview](images/Dashboard.JPG)
 
-# Sustainability Analysis Dashboard
+# Sustainability Analysis Dashboard
 
 An interactive web application built using Python and Streamlit to explore carbon emissions from everyday decisions.
 
