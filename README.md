@@ -1,5 +1,8 @@
 
-# Sustainability Analysis Dashboard
+
+# Sustainability Analysis Dashboard
+
+Live App: https://sustainability-analysis-dashboard-bjyegsq9ndte9j2zkhav8u.streamlit.app/
 
 An interactive web application built using Python and Streamlit to explore carbon emissions from everyday decisions.
 
